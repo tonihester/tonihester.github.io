@@ -1,7 +1,7 @@
 {
-  "name": "toni-site",
+  "name": "tony-site",
   "version": "0.1.0",
-  "homepage": "https://tonihester.github.io",
+  "homepage": "https://tonyhester.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
