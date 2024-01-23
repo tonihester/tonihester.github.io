@@ -67,7 +67,7 @@ export default function Profile() {
                 
                 <div className='text-center mt-12'>
                   <h3 className='text-4xl font-semibold leading-normal mb-2 text-gray-800 mb-2'>
-                    Tony Hester
+                    Infinite Well Spring
                   </h3>
                   <div className='text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase'>
                     <i className='fas fa-map-marker-alt mr-2 text-lg text-gray-500'></i>{' '}
@@ -78,7 +78,8 @@ export default function Profile() {
                   <div className='flex flex-wrap justify-center'>
                     <div className='w-full lg:w-9/12 px-4'>
                       <p className='mb-4 text-lg leading-relaxed text-gray-800'>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                       Mission/values,...
+                       Enquiries: something@something.com
                       </p>
                     </div>
                   </div>
